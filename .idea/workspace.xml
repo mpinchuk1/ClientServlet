@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96a50f4c-3546-45fd-87e3-1a3d402e3ba4" name="Default Changelist" comment="" />
+    <list default="true" id="96a50f4c-3546-45fd-87e3-1a3d402e3ba4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Chat/Client/src/com/company/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/Client/src/com/company/GetThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/Client/src/com/company/JsonMessages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/Client/src/com/company/Loginer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/Client/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/Client/src/com/company/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/Client/src/com/company/MessageCommands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/Client/src/com/company/UsersOnline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/Client/src/com/company/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/Server/src/ua/kiev/prog/AddServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/Server/src/ua/kiev/prog/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/Server/src/ua/kiev/prog/GetMsgListServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/Server/src/ua/kiev/prog/GetUsersServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/Server/src/ua/kiev/prog/JsonMessages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/Server/src/ua/kiev/prog/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/Server/src/ua/kiev/prog/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/Server/src/ua/kiev/prog/MessageList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/Server/src/ua/kiev/prog/SetStatusServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/Server/src/ua/kiev/prog/UsersInfoFullList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/Server/src/ua/kiev/prog/UsersOnline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/Server/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chat/Server/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat/Client/.gitkeep" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +39,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YtvtVTPU8LzDClcQiIRknAWJNJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,7 +53,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chat/Server" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -37,10 +66,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maxim\Desktop\ServletChatClient\Chat\Client" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.company" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maxim\Desktop\ServletChatClient\Chat\Server" />
+      <recent name="C:\Users\maxim\Desktop\ServletChatClient\Chat" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -78,7 +112,7 @@
       <workItem from="1584115653125" duration="6392000" />
       <workItem from="1584142446611" duration="14817000" />
       <workItem from="1584187520548" duration="3983000" />
-      <workItem from="1584221674631" duration="16523000" />
+      <workItem from="1584221674631" duration="18064000" />
     </task>
     <servers />
   </component>
@@ -113,25 +147,25 @@
     </state>
     <state x="306" y="125" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1584188301288" />
     <state x="343" y="135" width="735" height="513" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1584115693328" />
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1584243486870">
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1584243933821">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1584243486870" />
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1584243933821" />
     <state width="1233" height="162" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584185710351" />
-    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1584243486870">
+    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1584243933821">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1584243486870" />
+    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1584243933821" />
     <state width="1233" height="162" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584185710350" />
-    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1584243486870">
+    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1584243933821">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1584243486870" />
+    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1584243933821" />
     <state width="1233" height="162" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584185710350" />
-    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1584243486870">
+    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1584243933821">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1584243486870" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1584243933821" />
     <state width="1233" height="162" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584185710350" />
     <state width="1233" height="202" key="GridCell.Tab.1.bottom" timestamp="1584184574825">
       <screen x="67" y="27" width="1299" height="741" />
@@ -153,6 +187,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="210" y="27" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1583886764241" />
+    <state x="432" y="221" key="git4idea.merge.GitPullDialog" timestamp="1584244828679">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="432" y="221" key="git4idea.merge.GitPullDialog/0.0.1440.860@0.0.1440.860" timestamp="1584244828679" />
     <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1583947978893">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
