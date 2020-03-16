@@ -25,18 +25,16 @@ public class AddServlet extends HttpServlet {
 
         ServletContext context = req.getServletContext();
         String curLogin = (String) context.getAttribute("user_login");
-        List<Message> userMsgList = new LinkedList<>();
-        for (Client client: users.getList()){
-            if(client.getLogin().equals(curLogin))
-                userMsgList = client.getMessageList();
-        }
+//        List<Message> userMsgList = new LinkedList<>();
+//        for (Client client: users.getList()){
+//            if(client.getLogin().equals(curLogin))
+//                userMsgList = client.getMessageList();
+//        }
 		Message msg = Message.fromJSON(bufStr);
 		if (msg != null){
-            if(curLogin.equals(msg.getTo())){
-                userMsgList.add(msg);
-            }else {
-
-            }
+//            if(curLogin.equals(msg.getTo())){
+//                userMsgList.add(msg);
+//            }
             msgList.add(msg);
 
             //System.out.println(msgList.toString());
