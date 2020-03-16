@@ -1,68 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96a50f4c-3546-45fd-87e3-1a3d402e3ba4" name="Default Changelist" comment="login, status, usersList, privateMsg(on development stage)">
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/.idea/artifacts/ServletServer_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/.idea/libraries/gson_2_8_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/.idea/libraries/gson_2_8_61.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/ServletServer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/lib/javax.annotation.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/lib/javax.ejb.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/lib/javax.jms.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/lib/javax.persistence.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/lib/javax.resource.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/lib/javax.servlet.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/lib/javax.servlet.jsp.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/lib/javax.transaction.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/artifacts/ServletServer_war_exploded/WEB-INF/classes/META-INF/ServletServer.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/artifacts/ServletServer_war_exploded/WEB-INF/classes/ua/kiev/prog/AddServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/artifacts/ServletServer_war_exploded/WEB-INF/classes/ua/kiev/prog/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/artifacts/ServletServer_war_exploded/WEB-INF/classes/ua/kiev/prog/GetMsgListServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/artifacts/ServletServer_war_exploded/WEB-INF/classes/ua/kiev/prog/GetUsersServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/artifacts/ServletServer_war_exploded/WEB-INF/classes/ua/kiev/prog/JsonMessages.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/artifacts/ServletServer_war_exploded/WEB-INF/classes/ua/kiev/prog/LoginServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/artifacts/ServletServer_war_exploded/WEB-INF/classes/ua/kiev/prog/Message.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/artifacts/ServletServer_war_exploded/WEB-INF/classes/ua/kiev/prog/MessageList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/artifacts/ServletServer_war_exploded/WEB-INF/classes/ua/kiev/prog/SetStatusServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/artifacts/ServletServer_war_exploded/WEB-INF/classes/ua/kiev/prog/UsersInfoFullList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/artifacts/ServletServer_war_exploded/WEB-INF/classes/ua/kiev/prog/UsersOnline.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/artifacts/ServletServer_war_exploded/WEB-INF/lib/gson-2.8.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/production/ServletServer/META-INF/ServletServer.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/production/ServletServer/ua/kiev/prog/AddServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/production/ServletServer/ua/kiev/prog/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/production/ServletServer/ua/kiev/prog/GetMsgListServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/production/ServletServer/ua/kiev/prog/GetUsersServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/production/ServletServer/ua/kiev/prog/JsonMessages.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/production/ServletServer/ua/kiev/prog/LoginServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/production/ServletServer/ua/kiev/prog/Message.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/production/ServletServer/ua/kiev/prog/MessageList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/production/ServletServer/ua/kiev/prog/SetStatusServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/production/ServletServer/ua/kiev/prog/UsersInfoFullList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/production/ServletServer/ua/kiev/prog/UsersOnline.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/src/ua/kiev/prog/JsonMessages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/web/index.jsp" afterDir="false" />
+    <list default="true" id="96a50f4c-3546-45fd-87e3-1a3d402e3ba4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/Server/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/Server/src/ua/kiev/prog/AddServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/src/ua/kiev/prog/AddServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/Server/src/ua/kiev/prog/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/src/ua/kiev/prog/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/Server/src/ua/kiev/prog/GetMsgListServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/src/ua/kiev/prog/GetMsgListServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/Server/src/ua/kiev/prog/GetUsersServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/src/ua/kiev/prog/GetUsersServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/Server/src/ua/kiev/prog/JsonMessages.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/Server/src/ua/kiev/prog/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/src/ua/kiev/prog/LoginServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/Server/src/ua/kiev/prog/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/src/ua/kiev/prog/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/Server/src/ua/kiev/prog/MessageList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/src/ua/kiev/prog/MessageList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/Server/src/ua/kiev/prog/SetStatusServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/src/ua/kiev/prog/SetStatusServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/Server/src/ua/kiev/prog/UsersInfoFullList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/src/ua/kiev/prog/UsersInfoFullList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/Server/src/ua/kiev/prog/UsersOnline.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/src/ua/kiev/prog/UsersOnline.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/Server/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/artifacts/ServletServer_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chat/Server/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Chat/Server/ServletServer/out/artifacts/ServletServer_war_exploded/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1YtvtVTPU8LzDClcQiIRknAWJNJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -91,7 +32,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chat/Server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chat/Client/src/com" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -111,6 +52,8 @@
       <recent name="com.company" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maxim\Desktop\ServletChatClient\ServerSetv\web\WEB-INF" />
+      <recent name="C:\Users\maxim\Desktop\ServletChatClient\ServerSetv\src" />
       <recent name="C:\Users\maxim\Desktop\ServletChatClient\Chat\Server" />
       <recent name="C:\Users\maxim\Desktop\ServletChatClient\Chat" />
       <recent name="$PROJECT_DIR$" />
@@ -150,8 +93,16 @@
       <workItem from="1584115653125" duration="6392000" />
       <workItem from="1584142446611" duration="14817000" />
       <workItem from="1584187520548" duration="3983000" />
-      <workItem from="1584221674631" duration="22292000" />
+      <workItem from="1584221674631" duration="23029000" />
     </task>
+    <task id="LOCAL-00001" summary="login, status, usersList, privateMsg(on development stage)">
+      <created>1584370235438</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584370235438</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,34 +135,34 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="450" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.860@0.0.1440.860" timestamp="1584222084353" />
-    <state x="332" y="24" key="CommitChangelistDialog2" timestamp="1584370200252">
+    <state x="332" y="24" key="CommitChangelistDialog2" timestamp="1584370234366">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="332" y="24" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1584370200252" />
-    <state x="306" y="125" width="735" height="513" key="FileChooserDialogImpl" timestamp="1584366352824">
+    <state x="332" y="24" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1584370234366" />
+    <state x="306" y="125" width="735" height="513" key="FileChooserDialogImpl" timestamp="1584370947450">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="306" y="125" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1584366352824" />
+    <state x="306" y="125" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1584370947450" />
     <state x="343" y="135" width="735" height="513" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1584115693328" />
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1584370200302">
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1584370593023">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1584370200302" />
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1584370593023" />
     <state width="1233" height="162" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584185710351" />
-    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1584370200302">
+    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1584370593023">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1584370200302" />
+    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1584370593023" />
     <state width="1233" height="162" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584185710350" />
-    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1584370200302">
+    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1584370593023">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1584370200302" />
+    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1584370593023" />
     <state width="1233" height="162" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584185710350" />
-    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1584370200302">
+    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1584370593023">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1584370200302" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1584370593023" />
     <state width="1233" height="162" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584185710350" />
     <state width="1233" height="202" key="GridCell.Tab.1.bottom" timestamp="1584184574825">
       <screen x="67" y="27" width="1299" height="741" />
@@ -233,14 +184,18 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="210" y="27" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1583886764241" />
+    <state x="529" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584370571682">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="529" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860@0.0.1440.860" timestamp="1584370571682" />
     <state x="432" y="221" key="git4idea.merge.GitPullDialog" timestamp="1584244828679">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="432" y="221" key="git4idea.merge.GitPullDialog/0.0.1440.860@0.0.1440.860" timestamp="1584244828679" />
-    <state x="124" y="39" width="1289" height="741" key="new project wizard" timestamp="1584369598895">
+    <state x="124" y="39" width="1289" height="741" key="new project wizard" timestamp="1584370702216">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="124" y="39" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1584369598895" />
+    <state x="124" y="39" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1584370702216" />
     <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1583947978893" />
   </component>
 </project>
